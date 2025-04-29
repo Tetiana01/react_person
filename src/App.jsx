@@ -12,6 +12,7 @@ export const misha = {
 
 export const olya = {
   name: 'Olya',
+  age: null,
   sex: 'f',
   isMarried: true,
   partnerName: 'Maksym',
@@ -22,6 +23,7 @@ export const alex = {
   age: 25,
   sex: 'm',
   isMarried: false,
+  partnerName: null,
 };
 
 export const App = () => (
